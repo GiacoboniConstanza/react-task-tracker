@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Task Tracker
 
 React JS Crash Course: https://www.youtube.com/watch?v=w7ejDZ8SWv8
 
